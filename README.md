@@ -404,19 +404,19 @@ stronger API error handling;
 load testing;
 automated security testing;
 deployment infrastructure.
-Demo
+
+
+## Demo
 
 The final demo demonstrates:
 
-Knowledge-base retrieval and citation.
-Order lookup.
-Multi-turn conversation.
-Privacy refusal/human handoff.
-Full evaluation execution.
+- Knowledge-base retrieval and citation.
+- Order lookup.
+- Multi-turn conversation.
+- Privacy refusal/human handoff.
+- Full evaluation execution.
 
-Demo:
-
-TODO: Add final 2–4 minute demo link here
+[Watch the 2-minute 22-second project demonstration](https://github.com/chetanmurudkar60-lab/aster-row-ai-support-agent/releases/tag/v1.0.0)
 
 Final Verification
 
